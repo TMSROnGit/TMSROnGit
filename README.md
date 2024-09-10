@@ -1,7 +1,7 @@
  ## Hi there, I'm Tiago and welcome to my github profile
 
-🗓 24 years old \
-📍 From Porto, Portugal \ 
+🗓 24 years old 
+📍 From Porto, Portugal 
 
 
 # Currently Learning
